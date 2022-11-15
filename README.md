@@ -22,8 +22,10 @@ This is one of the most challenging projects I was involved in. It was 6 AWT veh
 This was an old VNA vehicle project in Norway where 10 old vehicles were already running. New project included 2 new VNA vehicles. This was challenging as the dimension of the new vehicle were different than the old ones and fitting the new vehicles in old layout was kind of challenging. Also the rack beam finder sensor from Sick used in old vehicles were out of production and new generation sensors were included in the new vehicles. I spent 40 days in Norway to complete the project. The most difficult challenge was the adjustment of the Sick rack beam finder sensor. There were four different aisle sizes and I needed to configure the sensor so that it works in all the aisles flawlessly. 
 
 5. Project Name: Betatex in Italy
+
 This was in a small scale warehouse with a mixed system of 2 ATX and 2 VNA vehicles. This was my first project with Rocla FleetController system(In house SW for controlling traffic, vehicle allocation, Visualization, Order optimization etc.). I did some design work in the office alongside our Senior System Engineer. On site, I did Reflector survey, vehicle tuning, layout adjustments, vehicle SW bug reports & modifications, Charger installations and programming with Beckhoff PLC, I/O handshake testing with wrapper conveyor & fire doors etc. I spent 50 days on site on and off to complete the project. The challenge in this project was VNA vehicles changing aisles quite often which in not the case in general. 
 
 6. Project Name: AstraZeneca in Sweden
+
 This was the last commissioning project I was involved in. This is a 7 ATX vehicle system. I spent 9 days on site to help Commissioning Engineer to find vehicle issues 
 and SW bugs. In this project, I found a critical bug in our base software regarding the Li-Ion battery control and AGV switch off program(to save the battery) which was later added to the next base SW release and also SW update in existing projects.
